@@ -1,6 +1,6 @@
 # Hey there! ☕️ I'm Likhaya Kalimashe, a Tech Explorer 🚀
 
-Junior Software Developer | UI/UX Enthusiast | Mobile Development Aficionado
+Junior Software Developer Intern | UI/UX Enthusiast | Mobile Development Aficionado
 
 ## About Me
 
